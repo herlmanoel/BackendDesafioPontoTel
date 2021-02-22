@@ -5,10 +5,10 @@ A aplicação tem como objetivo requisitar a API da Alpha Vantage e retornar o n
 ## Configuração
  ```shell
 git clone https://github.com/herlmanoel/BackendDesafioPontoTel.git pontotel
-cd pontotel/backend
+cd pontotel
  ```
  ### Rodando
   ```shell
-cd pontotel/backend
+cd pontotel
 python src/server.py
  ```
